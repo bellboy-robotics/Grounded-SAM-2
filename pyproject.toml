@@ -8,3 +8,6 @@ dependencies = [
     "hydra-core>=1.3.2"
 ]
 
+[tool.setuptools]
+include-package-data = true
+
